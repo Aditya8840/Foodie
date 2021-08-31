@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "97172465936",
+    "project_id": "foodie-dfa60",
+    "storage_bucket": "foodie-dfa60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97172465936:android:8e3db4aa258d04f7cb1d95",
+        "android_client_info": {
+          "package_name": "com.codiyapa.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97172465936-64d91f8e300j2g6ntue654l8ah5261ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codiyapa.foodie",
+            "certificate_hash": "e6ec5727f3bc97000b36b7c394f9f384b57670fa"
+          }
+        },
+        {
+          "client_id": "97172465936-n7crsiairv553r4dmr136n139280r63s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ot937_3dN2VmT_rAGCgRTEl8oF4fXzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97172465936-n7crsiairv553r4dmr136n139280r63s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

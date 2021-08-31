@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Foodie🍔</string>
+    <!-- ... -->
+    <string name="facebook_application_id" translatable="false">1097188710816119</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">02b31c932fc5544c533151f8b7b83613</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
