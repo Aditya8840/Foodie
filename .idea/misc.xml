@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/CoDiYaPa/AndroidStudioProjects/Foodie/app/src/main/res/drawable/search_vie_background.xml" value="0.16332046332046332" />
+        <entry key="..\:/Users/CoDiYaPa/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/CoDiYaPa/AndroidStudioProjects/Foodie/app/src/main/res/layout/fragment_cart.xml" value="0.1" />
+        <entry key="..\:/Users/CoDiYaPa/AndroidStudioProjects/Foodie/app/src/main/res/layout/fragment_home.xml" value="0.153125" />
+        <entry key="..\:/Users/CoDiYaPa/AndroidStudioProjects/Foodie/app/src/main/res/menu/items.xml" value="0.13958333333333334" />
         <entry key="..\:/Users/akasa/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_login_acitivity.xml" value="0.1" />
         <entry key="..\:/Users/akasa/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/akasa/AndroidStudioProjects/Foodie/app/src/main/res/layout/activity_otp.xml" value="0.1" />
